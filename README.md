@@ -1,6 +1,6 @@
 # medical_Tableau_anaylsis
 A detailed medical device data analysis project using Excel for cleaning and Tableau for interactive visualization.
-Project Overview (نظرة عامة على المشروع)
+Project Overview 
 
 This project provides a detailed analysis of medical equipment maintenance data to identify cost drivers, failure patterns, and areas for strategic intervention. The analysis leverages a dataset covering several years of maintenance records, device specifications, and geographical locations.
 
@@ -8,8 +8,7 @@ This project provides a detailed analysis of medical equipment maintenance data 
 
 ---
 
-## 🎯 Purpose of the Analysis (أهداف التحليل)
-
+## 🎯 Purpose of the Analysis 
 The main goal of this analysis is to answer key business questions regarding equipment performance:
 
 * Identify total maintenance costs and failure counts over the years.
@@ -18,7 +17,7 @@ The main goal of this analysis is to answer key business questions regarding equ
 
 ---
 
-## 🔑 Key Findings and Insights (الرؤى والنتائج الرئيسية)
+## 🔑 Key Findings and Insights 
 
 The analysis highlighted several critical areas:
 
@@ -40,7 +39,7 @@ The analysis highlighted several critical areas:
 
 ---
 
-## 💡 Recommendations (التوصيات)
+## 💡 Recommendations 
 
 Based on the findings, the following actions are recommended:
 
